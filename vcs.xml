@@ -10,6 +10,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="koylyakandriy" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.softjourn.if.ua" />
+          <option name="userName" value="akoiliak" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
