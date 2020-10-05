@@ -1,5 +1,3 @@
 <application>
-  <component name="LiveEditOptions" nodeUpdateOnChanges="true">
-    <option name="elementHighlighting" value="true" />
-  </component>
+  <component name="LiveEditOptions" nodeUpdateOnChanges="true" />
 </application>
