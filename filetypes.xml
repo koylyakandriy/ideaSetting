@@ -2,10 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".elintrc" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignor" type="PLAIN_TEXT" />
       <mapping pattern=".prettierrrc" type="PLAIN_TEXT" />
       <mapping pattern="StoreContext,js" type="PLAIN_TEXT" />
       <mapping pattern="Hero" type="PLAIN_TEXT" />
-      <mapping pattern=".gitignor" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="frm" type="PLAIN_TEXT" />
       <mapping ext="ibd" type="PLAIN_TEXT" />
