@@ -1,7 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="JavaScript/ECMAScript 6/Convert to multi-line string template" />
-    <ignoreAction name="CSS/Convert color to gray" />
-    <ignoreAction name="Language injection/Edit injected fragment" />
-  </component>
-</application>
