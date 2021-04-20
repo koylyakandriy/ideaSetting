@@ -1,0 +1,19 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="compactTables" value="true" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="isHighlightColorEnabled" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="treeFontSizeEnabled" value="true" />
+    <option name="tabFontSizeEnabled" value="true" />
+    <option name="useMaterialFont2" value="true" />
+    <option name="settingsSelectedTab" value="5" />
+    <option name="tabsHeight" value="42" />
+    <option name="accentColor" value="009688" />
+    <option name="highlightColor" value="4c7c29" />
+    <option name="userId" value="32151a45:16abecfe825:-8000" />
+    <option name="version" value="6.3.2" />
+  </component>
+</application>

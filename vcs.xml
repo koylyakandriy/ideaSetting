@@ -1,5 +1,39 @@
 <application>
-  <component name="VcsApplicationSettings">
-    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="koylyak" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="koylyakandriy" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.softjourn.if.ua" />
+          <option name="userName" value="akoiliak" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://sytner.visualstudio.com" />
+          <option name="userName" value="akoilia" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev.azure.com/sytner/Classic" />
+          <option name="userName" value="sytner" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Subject" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+      </list>
+    </option>
   </component>
 </application>
