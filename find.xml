@@ -2,9 +2,13 @@
   <component name="FindSettings">
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
-    <option name="FILE_MASK" value="!.xml, !.html, !*.spec.js, !.spec.jsx, !.js.snap, !.jsx.snap, !main.js, !*.json, !*.spec.tsx" />
+    <option name="FILE_MASK" value="!*.xml, !*.html, !*.spec.js, !*.spec.jsx, !*.js.snap, !*.jsx.snap, !main.js, !*.json, !*.spec.tsx" />
     <mask>!.xml, !.html, !.spec.js, !.spec.jsx, !.js.snap, !.jsx.snap, !main.js, !.json, !.spec.tsx,</mask>
     <mask>!.xml, !.html, !*.spec.js, !.spec.jsx, !.js.snap, !.jsx.snap, !main.js, !*.json, !*.spec.tsx</mask>
+    <mask>!.xml, !.html, !*.spec.js, !*.spec.jsx, !.js.snap, !.jsx.snap, !main.js, !*.json, !*.spec.tsx</mask>
+    <mask>!*.xml, !*.html, !*.spec.js, !*.spec.jsx, !*.js.snap, !*.jsx.snap, !main.js, !*.json, !*.spec.tsx</mask>
   </component>
 </application>
