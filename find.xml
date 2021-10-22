@@ -11,6 +11,18 @@
     <mask>!.xml, !.html, !*.spec.js, !*.spec.jsx, !.js.snap, !.jsx.snap, !main.js, !*.json, !*.spec.tsx</mask>
     <mask>!*.xml, !*.html, !*.spec.js, !*.spec.jsx, !*.js.snap, !*.jsx.snap, !main.js, !*.json, !*.spec.tsx</mask>
     <mask>!*.xml, !*.html, !*.spec.js, !*.jest.js, !*.spec.jx, !*.js.snap, !*.jsx.snap, !main.js, !*.json, !*.spec.tsx</mask>
+    <mask>*.xml</mask>
+    <mask>*.css</mask>
+    <mask>*.shtml</mask>
+    <mask>*.shtm</mask>
+    <mask>*.ng</mask>
+    <mask>*.htm</mask>
+    <mask>*.sht</mask>
+    <mask>*.html</mask>
+    <mask>*.ats</mask>
+    <mask>*.ts</mask>
+    <mask>*.cjs</mask>
+    <mask>*.js</mask>
     <mask>!*.xml, !*.html, !*.spec.js, !*.jest.js, !*.spec.jsx, !*.js.snap, !*.jsx.snap, !main.js, !*.json, !*.spec.tsx</mask>
   </component>
 </application>
