@@ -2,7 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>!.xml, !.html, !.spec.js, !.spec.jsx, !.js.snap, !.jsx.snap, !main.js, !.json, !.spec.tsx,</mask>
@@ -10,6 +12,7 @@
     <mask>!.xml, !.html, !*.spec.js, !*.spec.jsx, !.js.snap, !.jsx.snap, !main.js, !*.json, !*.spec.tsx</mask>
     <mask>!*.xml, !*.html, !*.spec.js, !*.spec.jsx, !*.js.snap, !*.jsx.snap, !main.js, !*.json, !*.spec.tsx</mask>
     <mask>!*.xml, !*.html, !*.spec.js, !*.jest.js, !*.spec.jx, !*.js.snap, !*.jsx.snap, !main.js, !*.json, !*.spec.tsx</mask>
+    <mask>!*.xml, !*.html, !*.spec.js, !*.jest.js, !*.spec.jsx, !*.js.snap, !*.jsx.snap, !main.js, !*.json, !*.spec.tsx</mask>
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
@@ -22,6 +25,5 @@
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
-    <mask>!*.xml, !*.html, !*.spec.js, !*.jest.js, !*.spec.jsx, !*.js.snap, !*.jsx.snap, !main.js, !*.json, !*.spec.tsx</mask>
   </component>
 </application>
