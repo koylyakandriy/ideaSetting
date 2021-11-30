@@ -1,8 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="compactTables" value="true" />
-    <option name="highlightColorEnabled" value="true" />
-    <option name="premium" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactTables" value="true" />
@@ -16,6 +14,6 @@
     <option name="accentColor" value="009688" />
     <option name="highlightColor" value="4c7c29" />
     <option name="userId" value="32151a45:16abecfe825:-8000" />
-    <option name="version" value="6.9.1" />
+    <option name="version" value="6.10.1" />
   </component>
 </application>
