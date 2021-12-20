@@ -1,0 +1,28 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="StoreContext,js" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignor" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierrrc" type="PLAIN_TEXT" />
+      <mapping pattern="Hero" type="PLAIN_TEXT" />
+      <mapping pattern=".elintrc" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="frm" type="PLAIN_TEXT" />
+      <mapping ext="ibd" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext=".tabnine.model" type="Tabnine project model file" />
+      <mapping ext=".tabnine" type="Tabnine project model file" />
+      <mapping ext=".model" type="Tabnine project model file" />
+      <mapping ext="tabnine" type="Tabnine project model file" />
+      <mapping ext="model" type="Tabnine project model file" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

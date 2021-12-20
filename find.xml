@@ -1,5 +1,20 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*.xml, !*.html, !*.spec.js, !*.jest.js, !*.spec.jsx, !*.js.snap, !*.jsx.snap, !main.js, !*.json, !*.spec.tsx, !*.spec.ts, !*.log, !*.map, !*.bundle.js, !*.info, !*.yaml" />
+    <mask>!.xml, !.html, !.spec.js, !.spec.jsx, !.js.snap, !.jsx.snap, !main.js, !.json, !.spec.tsx,</mask>
+    <mask>!.xml, !.html, !*.spec.js, !.spec.jsx, !.js.snap, !.jsx.snap, !main.js, !*.json, !*.spec.tsx</mask>
+    <mask>!.xml, !.html, !*.spec.js, !*.spec.jsx, !.js.snap, !.jsx.snap, !main.js, !*.json, !*.spec.tsx</mask>
+    <mask>!*.xml, !*.html, !*.spec.js, !*.spec.jsx, !*.js.snap, !*.jsx.snap, !main.js, !*.json, !*.spec.tsx</mask>
+    <mask>!*.xml, !*.html, !*.spec.js, !*.jest.js, !*.spec.jx, !*.js.snap, !*.jsx.snap, !main.js, !*.json, !*.spec.tsx</mask>
+    <mask>!*.xml, !*.html, !*.spec.js, !*.jest.js, !*.spec.jsx, !*.js.snap, !*.jsx.snap, !main.js, !*.json, !*.spec.tsx</mask>
+    <mask>!*.xml, !*.html, !*.spec.js, !*.jest.js, !*.spec.jsx, !*.js.snap, !*.jsx.snap, !main.js, !*.json, !*.spec.tsx, !*.log</mask>
+    <mask>!*.xml, !*.html, !*.spec.js, !*.jest.js, !*.spec.jsx, !*.js.snap, !*.jsx.snap, !main.js, !*.json, !*.spec.tsx, !*.log, !*.map, !*.bundle.js, !*.info</mask>
+    <mask>!*.xml, !*.html, !*.spec.js, !*.jest.js, !*.spec.jsx, !*.js.snap, !*.jsx.snap, !main.js, !*.json, !*.spec.tsx, !*.log, !*.map, !*.bundle.js</mask>
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
@@ -8,11 +23,11 @@
     <mask>*.htm</mask>
     <mask>*.sht</mask>
     <mask>*.html</mask>
-    <mask>*.mts</mask>
-    <mask>*.cts</mask>
     <mask>*.ats</mask>
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
+    <mask>!*.xml, !*.html, !*.spec.js, !*.jest.js, !*.spec.jsx, !*.js.snap, !*.jsx.snap, !main.js, !*.json, !*.spec.tsx, !*.spec.ts, !*.log, !*.map, !*.bundle.js, !*.info</mask>
+    <mask>!*.xml, !*.html, !*.spec.js, !*.jest.js, !*.spec.jsx, !*.js.snap, !*.jsx.snap, !main.js, !*.json, !*.spec.tsx, !*.spec.ts, !*.log, !*.map, !*.bundle.js, !*.info, !*.yaml</mask>
   </component>
 </application>
