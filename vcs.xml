@@ -22,6 +22,14 @@
           <option name="url" value="http://dev.azure.com/sytner/Classic" />
           <option name="userName" value="sytner" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="vsoi://checkout/?url=https://Mibrid-GBA-Technologies@dev.azure.com/Mibrid-GBA-Technologies/GBA%20OneView%204PL/_git/gba-ui&amp;EncFormat=UTF8&amp;IdeType=WebStorm&amp;IdeExe=WebStorm" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Mibrid-GBA-Technologies@dev.azure.com/Mibrid-GBA-Technologies/GBA%20OneView%204PL/_git/gba-ui" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />
