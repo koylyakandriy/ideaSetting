@@ -4,7 +4,7 @@
     <property name="created">2021-12-24T12:58:13</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.0.0</property>
-    <property name="modified">2021-12-24T13:02:42</property>
+    <property name="modified">2022-03-24T15:39:23</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1223,22 +1223,32 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="20221d" />
+        <option name="BACKGROUND" value="2a2d39" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="172221" />
+        <option name="BACKGROUND" value="283136" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="20192a" />
+        <option name="BACKGROUND" value="2e3234" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="142029" />
+        <option name="BACKGROUND" value="332f33" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="332a31" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="33252e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">

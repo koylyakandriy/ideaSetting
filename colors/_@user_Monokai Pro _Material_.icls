@@ -4,7 +4,7 @@
     <property name="created">2021-12-24T12:58:13</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.0.0</property>
-    <property name="modified">2021-12-24T13:02:42</property>
+    <property name="modified">2022-03-24T15:39:23</property>
     <property name="originalScheme">Monokai Pro (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1187,22 +1187,32 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="3c392f" />
+        <option name="BACKGROUND" value="44424a" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="333934" />
+        <option name="BACKGROUND" value="414747" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="3c303d" />
+        <option name="BACKGROUND" value="484845" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="2f383b" />
+        <option name="BACKGROUND" value="4c4444" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="4c3f42" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="4c3b3f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
