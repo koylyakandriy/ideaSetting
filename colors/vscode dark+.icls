@@ -3,7 +3,7 @@
     <property name="created">2018-11-09T12:29:26</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2019-05-20T20:17:54</property>
+    <property name="modified">2022-03-26T08:56:17</property>
     <property name="originalScheme">vscode dark+</property>
   </metaInfo>
   <colors>
@@ -685,6 +685,41 @@
         <option name="FOREGROUND" value="b389c5" />
         <option name="EFFECT_COLOR" value="b389c5" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="37383c" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="353c3a" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="3b3d38" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="403a36" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="403534" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="403032" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="3c1f1f" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
