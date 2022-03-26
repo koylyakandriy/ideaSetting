@@ -1,10 +1,10 @@
 <scheme name="_@user_Material Sky Blue" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2022-03-26T08:55:46</property>
+    <property name="created">2022-03-24T15:37:11</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-03-26T08:56:17</property>
+    <property name="ideVersion">2021.3.3.0.0</property>
+    <property name="modified">2022-03-24T15:39:24</property>
     <property name="originalScheme">Material Sky Blue</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
