@@ -1,0 +1,6 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="IntroduceParameter" />
+  <action id="PrettierImportCodeStyleAction">
+    <keyboard-shortcut first-keystroke="meta alt p" />
+  </action>
+</keymap>
