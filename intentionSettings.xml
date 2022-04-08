@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="JavaScript/ECMAScript 6/Add export" />
+    <ignoreAction name="XML/Remove tag (preserves children)" />
   </component>
 </application>
