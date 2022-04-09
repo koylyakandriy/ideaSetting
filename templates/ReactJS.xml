@@ -1,5 +1,5 @@
 <templateSet group="ReactJS">
-  <template name="rcls" value="import React, { Component } from 'react';&#10;import PropTypes from 'prop-types';&#10;&#10;class $COMPONENT$ extends Component {&#10;  static defaultProps = {&#10;    $START$&#10;  };&#10;&#10;  static propTypes = {&#10;  };&#10;&#10;  state = {&#10;  };&#10;&#10;  render() {&#10;    return (&#10;      &lt;div&gt;$END$&lt;/div&gt;&#10;    );&#10;  }&#10;}&#10;&#10;export default $COMPONENT$;&#10;" description="React: Create a React ES2015 class" toReformat="true" toShortenFQNames="true" deactivated="true">
+  <template name="rcls" value="import React, { Component } from 'react';&#10;import PropTypes from 'prop-types';&#10;&#10;class $COMPONENT$ extends Component {&#10;  static defaultProps = {&#10;    $START$&#10;  };&#10;&#10;  static propTypes = {&#10;  };&#10;&#10;  state = {&#10;  };&#10;&#10;  render() {&#10;    return (&#10;      &lt;div&gt;$END$&lt;/div&gt;&#10;    );&#10;  }&#10;}&#10;&#10;export default $COMPONENT$;&#10;" description="React: Create a React ES2015 class" toReformat="true" toShortenFQNames="true">
     <variable name="COMPONENT" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
     <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -20,7 +20,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="rpfc5" value="'use strict';&#10;&#10;var React = require('react');&#10;var PropTypes = require('prop-types');&#10;&#10;function $COMPONENT$($PARAMETER$) {&#10;  return (&#10;    &lt;div&gt;$END$&lt;/div&gt;&#10;  );&#10;}&#10;&#10;$COMPONENT$.propTypes = {};&#10;$COMPONENT$.defaultProps = {};&#10;&#10;module.exports = $COMPONENT$;&#10;" description="React: Create a pure function component" toReformat="true" toShortenFQNames="true" deactivated="true">
+  <template name="rpfc5" value="'use strict';&#10;&#10;var React = require('react');&#10;var PropTypes = require('prop-types');&#10;&#10;function $COMPONENT$($PARAMETER$) {&#10;  return (&#10;    &lt;div&gt;$END$&lt;/div&gt;&#10;  );&#10;}&#10;&#10;$COMPONENT$.propTypes = {};&#10;$COMPONENT$.defaultProps = {};&#10;&#10;module.exports = $COMPONENT$;&#10;" description="React: Create a pure function component" toReformat="true" toShortenFQNames="true">
     <variable name="COMPONENT" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMETER" expression="" defaultValue="&quot;props&quot;" alwaysStopAt="true" />
     <context>
@@ -40,7 +40,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="rcc5" value="'use strict';&#10;&#10;var React = require('react');&#10;var createReactClass = require('create-react-class');&#10;var PropTypes = require('prop-types');&#10;&#10;var $COMPONENT$ = createReactClass({&#10;  render: function() {&#10;    return (&#10;      &lt;div&gt;$END$&lt;/div&gt;&#10;    );&#10;  }&#10;});&#10;&#10;module.exports = $COMPONENT$;&#10;" description="React: Create a React.js component" toReformat="true" toShortenFQNames="true" deactivated="true">
+  <template name="rcc5" value="'use strict';&#10;&#10;var React = require('react');&#10;var createReactClass = require('create-react-class');&#10;var PropTypes = require('prop-types');&#10;&#10;var $COMPONENT$ = createReactClass({&#10;  render: function() {&#10;    return (&#10;      &lt;div&gt;$END$&lt;/div&gt;&#10;    );&#10;  }&#10;});&#10;&#10;module.exports = $COMPONENT$;&#10;" description="React: Create a React.js component" toReformat="true" toShortenFQNames="true">
     <variable name="COMPONENT" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
@@ -51,7 +51,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="rdom5" value="var ReactDOM = require('react-dom');&#10;$END$&#10;" description="React: import ReactDOM" toReformat="true" toShortenFQNames="true" deactivated="true">
+  <template name="rdom5" value="var ReactDOM = require('react-dom');&#10;$END$&#10;" description="React: import ReactDOM" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -62,13 +62,13 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="rccc5" value="$START$ = createReactClass({&#10;  render: function() {&#10;    return (&#10;      $END$&#10;    );&#10;  }&#10;});&#10;" description="React: Create a sub component" toReformat="true" toShortenFQNames="true" deactivated="true">
+  <template name="rccc5" value="$START$ = createReactClass({&#10;  render: function() {&#10;    return (&#10;      $END$&#10;    );&#10;  }&#10;});&#10;" description="React: Create a sub component" toReformat="true" toShortenFQNames="true">
     <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="cdm" value="componentDidMount() {&#10;  $END$&#10;}&#10;" description="React: componentDidMount" toReformat="true" toShortenFQNames="true">
+  <template name="cdm" value="componentDidMount() {&#10;  $END$&#10;}&#10;" description="React: componentDidMount" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -78,7 +78,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="cdu" value="componentDidUpdate(prevProps, prevState) {&#10;  $END$&#10;}&#10;" description="React: componentDidUpdate" toReformat="true" toShortenFQNames="true">
+  <template name="cdu" value="componentDidUpdate(prevProps, prevState) {&#10;  $END$&#10;}&#10;" description="React: componentDidUpdate" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -88,7 +88,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="cwm" value="componentWillMount() {&#10;  $END$&#10;}&#10;" description="React: componentWillMount" toReformat="true" toShortenFQNames="true">
+  <template name="cwm" value="componentWillMount() {&#10;  $END$&#10;}&#10;" description="React: componentWillMount" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -103,12 +103,12 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="uscwm5" value="UNSAFE_componentWillMount: function() {&#10;  $END$&#10;},&#10;" description="React: UNSAFE_componentWillMount()" toReformat="true" toShortenFQNames="true" deactivated="true">
+  <template name="uscwm5" value="UNSAFE_componentWillMount: function() {&#10;  $END$&#10;},&#10;" description="React: UNSAFE_componentWillMount()" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="cwr" value="componentWillReceiveProps(nextProps) {&#10;  $END$&#10;}&#10;" description="React: componentWillReceiveProps" toReformat="true" toShortenFQNames="true">
+  <template name="cwr" value="componentWillReceiveProps(nextProps) {&#10;  $END$&#10;}&#10;" description="React: componentWillReceiveProps" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -123,7 +123,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="uscwr5" value="UNSAFE_componentWillReceiveProps: function(nextProps) {&#10;  $END$&#10;},&#10;" description="React: UNSAFE_componentWillReceiveProps" toReformat="true" toShortenFQNames="true" deactivated="true">
+  <template name="uscwr5" value="UNSAFE_componentWillReceiveProps: function(nextProps) {&#10;  $END$&#10;},&#10;" description="React: UNSAFE_componentWillReceiveProps" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -133,12 +133,12 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="uscwu5" value="UNSAFE_componentWillUpdate: function(nextProps, nextState) {&#10;  $END$&#10;},&#10;" description="React: UNSAFE_componentWillUpdate" toReformat="true" toShortenFQNames="true" deactivated="true">
+  <template name="uscwu5" value="UNSAFE_componentWillUpdate: function(nextProps, nextState) {&#10;  $END$&#10;},&#10;" description="React: UNSAFE_componentWillUpdate" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="cwu" value="componentWillUpdate(nextProps, nextState) {&#10;  $END$&#10;}&#10;" description="React: componentWillUpdate" toReformat="true" toShortenFQNames="true">
+  <template name="cwu" value="componentWillUpdate(nextProps, nextState) {&#10;  $END$&#10;}&#10;" description="React: componentWillUpdate" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -148,7 +148,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="cwum" value="componentWillUnmount() {&#10;  $END$&#10;}&#10;" description="React: componentWillUnmount" toReformat="true" toShortenFQNames="true">
+  <template name="cwum" value="componentWillUnmount() {&#10;  $END$&#10;}&#10;" description="React: componentWillUnmount" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -168,7 +168,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="cdc" value="componentDidCatch() {&#10;  $END$&#10;}&#10;" description="React: componentDidCatch" toReformat="true" toShortenFQNames="true">
+  <template name="cdc" value="componentDidCatch() {&#10;  $END$&#10;}&#10;" description="React: componentDidCatch" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -178,12 +178,12 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="dn" value="displayName: '$END$'," description="React: displayName" toReformat="true" toShortenFQNames="true">
+  <template name="dn" value="displayName: '$END$'," description="React: displayName" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="dnp" value="$START$.displayName = '$END$';" description="React: displayName as a property" toReformat="true" toShortenFQNames="true">
+  <template name="dnp" value="$START$.displayName = '$END$';" description="React: displayName as a property" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
@@ -216,7 +216,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="fup" value="forceUpdate($END$);" description="React: forceUpdate();" toReformat="true" toShortenFQNames="true">
+  <template name="fup" value="forceUpdate($END$);" description="React: forceUpdate();" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -253,7 +253,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="dprp" value="const { $END$ } = this.props;" description="React: const { $END$ } = this.props;" toReformat="true" toShortenFQNames="true">
+  <template name="dprp" value="const { $END$ } = this.props;" description="React: const { $END$ } = this.props;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -285,7 +285,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="ren5" value="render: function() {&#10;  return (&#10;    &lt;div&gt;$END$&lt;/div&gt;&#10;  );&#10;}&#10;" description="React: render()" toReformat="true" toShortenFQNames="true" deactivated="true">
+  <template name="ren5" value="render: function() {&#10;  return (&#10;    &lt;div&gt;$END$&lt;/div&gt;&#10;  );&#10;}&#10;" description="React: render()" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -295,7 +295,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="scu5" value="shouldComponentUpdate: function(nextProps, nextState) {&#10;  $END$&#10;},&#10;" description="React: shouldComponentUpdate" toReformat="true" toShortenFQNames="true" deactivated="true">
+  <template name="scu5" value="shouldComponentUpdate: function(nextProps, nextState) {&#10;  $END$&#10;},&#10;" description="React: shouldComponentUpdate" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -306,7 +306,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="fsst" value="this.setState((prevState) =&gt; {&#10;  return $END$;&#10;});;&#10;" description="React: functional setState" toReformat="true" toShortenFQNames="true">
+  <template name="fsst" value="this.setState((prevState) =&gt; {&#10;  return $END$;&#10;});;&#10;" description="React: functional setState" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -316,7 +316,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="dst" value="const { $END$ } = this.state;" description="React: const { $END$ } = this.state;" toReformat="true" toShortenFQNames="true">
+  <template name="dst" value="const { $END$ } = this.state;" description="React: const { $END$ } = this.state;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -333,7 +333,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="ctx" value="this.context.$END$" description="React: this.context" toReformat="true" toShortenFQNames="true">
+  <template name="ctx" value="this.context.$END$" description="React: this.context" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -390,7 +390,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="cstt" value="constructor(props$START$) {&#10;  super(props$END$);&#10;}&#10;" description="React: constructor(props)" toReformat="true" toShortenFQNames="true">
+  <template name="cstt" value="constructor(props$START$) {&#10;  super(props$END$);&#10;}&#10;" description="React: constructor(props)" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
@@ -431,12 +431,12 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="rdoms" value="import ReactDOMServer from 'react-dom/server';&#10;$END$&#10;" description="React: import ReactDOMServer" toReformat="true" toShortenFQNames="true" deactivated="true">
+  <template name="rdoms" value="import ReactDOMServer from 'react-dom/server';&#10;$END$&#10;" description="React: import ReactDOMServer" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="rdoms5" value="var ReactDOMServer = require('react-dom/server');&#10;$END$&#10;" description="React: import ReactDOMServer" toReformat="true" toShortenFQNames="true" deactivated="true">
+  <template name="rdoms5" value="var ReactDOMServer = require('react-dom/server');&#10;$END$&#10;" description="React: import ReactDOMServer" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
