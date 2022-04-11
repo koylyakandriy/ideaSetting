@@ -1,22 +1,25 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
-  <action id="EslintImportCodeStyle">
-    <keyboard-shortcut first-keystroke="meta alt l" />
+  <action id="CodeCompletionGroup">
+    <keyboard-shortcut first-keystroke="shift space" />
   </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+  </action>
+  <action id="EslintImportCodeStyle">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
+  <action id="FileChooser.TogglePathShowing" />
   <action id="GotoLine" />
   <action id="IntroduceParameter" />
   <action id="Javascript.Linters.EsLint.Fix">
-    <keyboard-shortcut first-keystroke="meta l" />
+    <keyboard-shortcut first-keystroke="meta alt l" />
   </action>
+  <action id="ParameterInfo" />
   <action id="PrettierImportCodeStyleAction">
     <keyboard-shortcut first-keystroke="meta alt p" />
   </action>
-  <action id="ReformatCode" />
-  <action id="SurroundWith" />
-  <action id="Terminal.ClearBuffer">
-    <keyboard-shortcut first-keystroke="meta k" />
-  </action>
-  <action id="TslintImportCodeStyleAction">
-    <keyboard-shortcut first-keystroke="meta alt t" />
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
 </keymap>
