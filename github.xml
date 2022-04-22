@@ -3,5 +3,8 @@
     <account name="koylyakandriy" id="0f623821-15f7-4f0e-8cec-1a8745a0a94d">
       <server host="github.com" />
     </account>
+    <account name="andrew-koiliak" id="b97bf3d6-74fd-489d-b295-9f599b4b9d7b">
+      <server useHttp="false" host="github.medallia.com" />
+    </account>
   </component>
 </application>
